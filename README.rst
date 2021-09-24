@@ -1,3 +1,6 @@
+
+       **WARNING: The repository moved to the DevCentral https://github.com/f5devcentral/volterra-gke-vk8s-guide**
+   
 Summary
 ####################
 This guide provides the steps, the sample app, and the automation scripts for a hands-on exploration of two of Volterra's use-cases: (a) multi-cloud networking between two Kubernetes clusters, and (b) deploying a distributed workload to the Volterra global network. 
